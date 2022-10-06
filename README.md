@@ -1,3 +1,3 @@
 # LearnGit
 Learn Git by Insightful Techie
-This line contains a mstke
+This line no more contains a mistake.
