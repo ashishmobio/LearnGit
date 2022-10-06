@@ -1,1 +1,2 @@
 Hi! Thank you Almighty God. This is my text file in Git repository.
+Just adding a new line again.
